@@ -24,7 +24,10 @@ Follow the following steps to install and run the program:
 * [Blender](https://www.blender.org/)
 * [Adobe After Effects](https://www.adobe.com/in/products/aftereffects.html)
 ## Screenshots
-
+![Alt Text](https://github.com/NinjaGaurav/Omnitron/blob/master/Start.PNG)
+![Alt Text](https://github.com/NinjaGaurav/Omnitron/blob/master/Intro.png)
+![Alt Text](https://github.com/NinjaGaurav/Omnitron/blob/master/Menu.png)
+![Alt Text](https://github.com/NinjaGaurav/Omnitron/blob/master/Answer.png)
 ## Authors
 * Ketan Ojha
 * Gaurav Bholla
