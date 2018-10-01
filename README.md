@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites 
 Following are the hardware and software requirements to run the program
 ```
-OS: Microsoft® Windows® 7/8/10
+OS: Microsoft® Windows® 7/8/10 (Compatible with obsolete dual core intel cpus(32/64 bit))
 Processor: 64-bit Intel Core 2 Duo E8500 or AMD Phenom 9850 Quad-Core Processor (or better)
 Memory: 4096MB of RAM (or better)
 Graphics: 512MB (or more) Video Card (Geforce GTX or AMD HD Series Recommended)
