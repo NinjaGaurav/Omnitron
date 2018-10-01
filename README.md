@@ -1,5 +1,6 @@
 # Omnitron
 A 3-D decision based Crime-Detection project made in Unity which makes use of Fuzzy Search Algorithm. It can detect the culprit in constant time O(1) from a database. It is very useful in a company or an organization and saves a lot of time.
+Language used: C#
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine. Check below for how to install and system requirements for running the program.
 ### Prerequisites 
