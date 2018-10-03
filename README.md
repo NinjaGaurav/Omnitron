@@ -12,7 +12,7 @@ Memory: 4096MB of RAM (or better)
 Graphics: 512MB (or more) Video Card (Geforce GTX or AMD HD Series Recommended)
 Hard Drive: 1024MB of free hard disk space for installation (512MB after installation)
 ```
-Catution: Will not work on Intel dual core or 32 bit CPU!
+*Catution: Will not work on Intel dual core or 32 bit CPU!
 ### Installation Steps
 Follow the following steps to install and run the program:
 ```
@@ -25,6 +25,8 @@ Follow the following steps to install and run the program:
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
 * [Blender](https://www.blender.org/)
 * [Adobe After Effects](https://www.adobe.com/in/products/aftereffects.html)
+* [Adobe Photoshop](https://www.adobe.com/in/products/aftereffects.html)
+
 ## Screenshots
 ![Alt Text](https://github.com/NinjaGaurav/Omnitron/blob/master/Start.PNG)
 ![Alt Text](https://github.com/NinjaGaurav/Omnitron/blob/master/Intro.png)
