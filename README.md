@@ -12,7 +12,8 @@ Memory: 4096MB of RAM (or better)
 Graphics: 512MB (or more) Video Card (Geforce GTX or AMD HD Series Recommended)
 Hard Drive: 1024MB of free hard disk space for installation (512MB after installation)
 ```
-*Catution: Will not work on Intel dual core or 32 bit CPU!
+*Caution: Will not work on Intel dual core or 32 bit CPU!*
+
 ### Installation Steps
 Follow the following steps to install and run the program:
 ```
